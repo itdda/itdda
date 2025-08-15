@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=타이틀 안녕하세요&fontSize=90&animation=fadeIn&fontAlignY=38&desc=안녕하세요!!&descAlignY=51&descAlign=62"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=%23e9a2b0&height=300&section=header&text=사용자를%20생각하는%20개발자&fontSize=60&animation=fadeIn&fontAlignY=38&desc=윤진입니다.%20안녕하세요♡&descAlignY=51&descAlign=62"/>
 </p>
