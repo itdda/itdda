@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **itdda/itdda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--인디핑크 color = e9a2b0-->
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=%23e9a2b0&height=300&section=header&text=사용자를%20생각하는%20개발자&fontSize=60&animation=fadeIn&fontAlignY=38&desc=윤진입니다.%20안녕하세요♡&descAlignY=51&descAlign=62"/>
+    <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=300&section=header&text=사용자를%20생각하는%20개발자&fontSize=60&fontColor=C8C8C8&animation=fadeIn&fontAlignY=38&desc=윤진입니다.%20안녕하세요🌱&descAlignY=51&descAlign=62"/>
+</p>
+
+
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&fontSize=60&fontColor=C8C8C8&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
 </p>
