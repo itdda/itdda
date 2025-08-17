@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
   <a href="https://yoonjin.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit-My GitHub-skyblue?style=for-the-badge&logo=ko&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Visit-My Repository-skyblue?style=for-the-badge&logo=ko&logoColor=white"/>
   </a>
 </p>
 
