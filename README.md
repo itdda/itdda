@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 </p><br/>
 
 <p align="center">
-  <a href="https://yoonjin.onrender.com/" target="_blank">
+  <a href="https://yoonjin-front.onrender.com/" target="_blank">
     <img src="https://img.shields.io/badge/Visit-My Site-blue?style=for-the-badge&logo=ko&logoColor=white"/>
   </a>
 </p>
