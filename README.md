@@ -73,11 +73,10 @@ Here are some ideas to get you started:
   </a>
 </p>
 <p align="center">
-  <a href="https://yoonjin.onrender.com/" target="_blank">
+  <a href="https://github.com/itdda/mini-chat-app/" target="_blank">
     <img src="https://img.shields.io/badge/Visit-My Repository-skyblue?style=for-the-badge&logo=ko&logoColor=white"/>
   </a>
 </p>
-
 
 </div>
 
